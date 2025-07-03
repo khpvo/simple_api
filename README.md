@@ -7,4 +7,4 @@ Import the sql.sql file, change params in the config.php file to your own
 
 ---
 
-![](https://gist.github.com/user-attachments/assets/65ce12df-6d71-42bb-96a8-661ec7d038d1)
+![009](https://gist.github.com/user-attachments/assets/65ce12df-6d71-42bb-96a8-661ec7d038d1)
