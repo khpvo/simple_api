@@ -1,5 +1,6 @@
 # simple_api
 Simple PHP REST API with no framework.
+### Do not use in real applications! Implement your own authorization and access control functions.
 
 ## Quick Start:
 
